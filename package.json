@@ -1,0 +1,19 @@
+{
+  "name": "movie-wenhooks",
+  "version": "1.0.0",
+  "description": "diaglogflow test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "swarup bam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "unirest": "^0.5.1"
+  },
+  "engines": {
+    "node": "8.9.1"
+  }
+}
